@@ -1,0 +1,62 @@
+html{
+  font-size:10px;
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LQYv99T36K2-S26_s72kCj-M58RbmSxiECEiqNMrybMVtQfguA)bottom center;
+  background-size:cover;
+}
+
+body,html{
+  margin:0;
+  padding:0;
+  font-family:san-serif;
+}
+
+.keys{
+  display:flex;
+  flex:1;
+  min-height:100vh;
+  align-items:center;
+  justify-content:center;  
+}
+
+.key{
+  border:.4rem solid black;
+  border-radius:.5rem;
+  margin:1rem;
+  font-size:1.5rem;
+  padding: 1rem .5rem;
+  transition: all .02s ease;
+  width: 10rem;
+  text-align: center;
+  color: white;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.key .sound {
+  text-transform: capitalize;
+}
+
+.playing {
+  border: 5px solid #F5DA55;
+  -webkit-box-shadow: 0 0 20px #F5DA55;
+          box-shadow: 0 0 20px #F5DA55;
+  -webkit-transform: scale(2);
+  -moz-transform: scale(2);
+  -ms-transform: scale(2);
+  -o-transform: scale(2);
+  transform: scale(2);
+}
+
+kbd{
+  display:block;
+  font-size:4rem;
+}
+
+.sound {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #ffc600;
+}
