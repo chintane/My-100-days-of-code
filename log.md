@@ -14,4 +14,5 @@ Learnt Event handling in JS and using of audio html tag.
 
 Day 4
 
-Create own set in JS
+Create own set in JS.
+Worked on JS application Analog Clock.
