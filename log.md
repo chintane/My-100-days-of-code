@@ -16,3 +16,4 @@ Day 4
 
 Create own set in JS.
 Worked on JS application Analog Clock.
+Worked on JS application Digital Clock.
