@@ -21,3 +21,7 @@ Worked on JS application Digital Clock.
 Day 5
 
 Worked on JS application Countdown timer.
+
+Day 6
+
+Created Own Queue and Priority Queue.
