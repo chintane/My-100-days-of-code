@@ -25,3 +25,7 @@ Worked on JS application Countdown timer.
 Day 6
 
 Created Own Queue and Priority Queue.
+
+Day 7
+
+Worked on Image Filters in JS.
