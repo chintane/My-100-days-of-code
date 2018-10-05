@@ -29,3 +29,7 @@ Created Own Queue and Priority Queue.
 Day 7
 
 Worked on Image Filters in JS.
+
+Day 8
+
+Started Python Basics
