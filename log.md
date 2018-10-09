@@ -33,3 +33,6 @@ Worked on Image Filters in JS.
 Day 8
 
 Started Python Basics
+
+Day 9
+Smiley Face using Python Turtle
