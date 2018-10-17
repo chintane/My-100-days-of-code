@@ -1,0 +1,21 @@
+								Hangman PseudoCode
+
+1.Create a random word.
+
+---Create a word list of any one type eg: programming languages,Car manufacture brands etc
+--- Everytime the game start.Shuffle the list and
+---Pick a word ,say the first one from the list.
+
+2.create a empty list to maintain correct guesses to find the correct word in the wordlist and declare winner.
+3.create a empty list to maintain incorrect guesses to control the game to stop after certain wrong guess.
+4.Functions
+	---function to draw the gallows and display the word.
+	---function to take guess.Append that letter with correct or incorrect list.
+		----user input should be one letter, not numeric and not already guessed.
+	---function checks if the user won or lost the game by comparing the correct and incorrect list.
+		---if user guess wrong letter 6 times.game is lost.and draws the complete gallows.
+	
+5.Main Flow
+	Call drawBoard function
+	Call userGuess function
+	Check the win condition and announce the result.
